@@ -1,6 +1,5 @@
 .iti {
-  position: relative;
-  display: inline-block; }
+  position: relative; }
   .iti * {
     box-sizing: border-box;
     -moz-box-sizing: border-box; }
